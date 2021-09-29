@@ -1,0 +1,4 @@
+br/ufmt/compiladores/lexico/App.class
+br/ufmt/compiladores/lexico/Token.class
+br/ufmt/compiladores/lexico/Sintatico.class
+br/ufmt/compiladores/lexico/LexScanner.class
